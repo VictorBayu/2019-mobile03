@@ -59,6 +59,7 @@
 		android:layout_marginBottom="72dp"
 		android:fontFamily="@font/artifika"
 		android:text="Login"
+		android:onClick="clickLogin"
 		android:textColor="#FFFFFF"
 		android:textSize="20sp"
 		app:layout_constraintBottom_toBottomOf="parent"
